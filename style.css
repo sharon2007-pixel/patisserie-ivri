@@ -1,0 +1,134 @@
+p {
+    color: #594d3d;
+    size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: right;
+}
+
+body {
+    background-color: #E6DFCF ;
+    font-family: Heebo , Arial , sans-serif;
+}
+
+.chef-bio span {
+    font-weight: 800;
+}
+
+info p {
+    size: 16px;
+    text-align: right;
+}
+
+h1 {
+    color: #AF8752;
+    size: 32px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 1px;
+    text-align: right;
+    font-family: Frank Ruhl Libre , 'Times New Roman' , serif;
+}
+
+h2 {
+    color: #594D3D;
+    size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+    text-align: right;
+}
+
+h3 {
+    color : #AF8752;
+}
+
+a {
+    color: #599B93;
+}
+
+.primary {
+    background-color:#E6DFCF ;
+    padding: 48px;
+}
+
+.secondary {
+    background-color: #F9F9F2;
+}
+
+.secondary , info {
+    padding: 16px;
+}
+
+.info {
+    background-color: #b6d3cc;
+}
+
+.info p {
+    color: #3d776f;
+}
+
+.secondary a:hover  {
+    color: #af8752;
+}
+
+.secondary a:focus {
+    color: #af8752;
+}
+
+.product-img {
+    min-width: 280px;
+    max-width: 500px;
+    height: auto;
+}
+
+.contract-label {
+    font-weight:700 ;
+}
+
+table {
+    color: #594d3d;
+    border-collapse: collapse;
+    
+}
+
+td , th , table {
+    border: 1px solid #594d3d;
+}
+
+.horizontal-image {
+    max-width: 100%;
+    height: auto;
+}
+
+input , textarea , select{
+    border: none;
+    font-family: "Heebo" , Arial, sans-serif;
+}
+
+.checkbox {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+button {
+    color:#f9f9f2 ;
+    background-color:#af8752 ;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
+
+button a:hover , button a:focus {
+    background-color:#594d3d ;
+}
+
+.vertical-image {
+    max-width: 300px;
+    height: auto;
+    padding-top: 16px;
+}
+
